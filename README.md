@@ -1,6 +1,6 @@
 # 🐍 Mis pasos en Python
 
-> *"perdón mundo"* — mi primer print(). Y desde ahí, no paré.
+> *"perdón mundo"* es mi primer print(). El que avisa no traiciona jajajajaja.
 
 ---
 
