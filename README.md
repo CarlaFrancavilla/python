@@ -6,9 +6,9 @@
 
 ## 👩‍💻 Sobre este repo
 
-Soy **Carla**, analista de datos en formación. Este repositorio es mi bitácora personal de aprendizaje de Python — ejercicios reales, errores documentados, y el proceso de entender las cosas de verdad (no solo copiar código).
+Soy **Carla**, analista de datos en formación. Este repositorio es mi bitácora personal de aprendizaje de Python, ejercicios reales, errores documentados, y el proceso de entender las cosas de verdad.
 
-Estudio en **Desafío Latam** mientras trabajo, mientras vivo, mientras todo.
+Estudio en **Desafío Latam** mientras trabajo, mientras vivo, mientras todo. Soy mamá, esposa de un paciente ERC en díalisis cada 4 horas y además inmigrante en Italia. 
 
 ---
 
@@ -36,7 +36,7 @@ Estudio en **Desafío Latam** mientras trabajo, mientras vivo, mientras todo.
 
 ## 💡 Filosofía de este repo
 
-Los errores están documentados. Porque **garbage in, garbage out** es una lección que se aprende equivocándose, no leyendo.
+Los errores están documentados. Porque **garbage in, garbage out** es una lección que se aprendí cagándola, no leyendo ni siguiendo las clases.
 
 Si el código está mal y lo sé, lo digo. Si el código está bien pero por las razones equivocadas, también lo digo.
 
