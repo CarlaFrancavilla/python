@@ -8,7 +8,6 @@
 
 Soy **Carla**, analista de datos en formación. Este repositorio es mi bitácora personal de aprendizaje de Python, ejercicios reales, errores documentados, y el proceso de entender las cosas de verdad.
 
-Estudio en **Desafío Latam** mientras trabajo, mientras vivo, mientras todo. Soy mamá, esposa de un paciente ERC en díalisis cada 4 horas y además inmigrante en Italia. 
 
 ---
 
@@ -50,4 +49,4 @@ Si el código está mal y lo sé, lo digo. Si el código está bien pero por las
 
 ---
 
-*Hecho con café, constancia, y muchos `print()` de diagnóstico.* ☕
+*Hecho con matecito, constancia, y muchos `print()`* :mate:
