@@ -1,4 +1,4 @@
-# 🐍 Mis pasos en Python
+# :Foot: Mis pasos en Python
 
 > *"perdón mundo"* es mi primer print(). El que avisa no traiciona jajajajaja.
 
